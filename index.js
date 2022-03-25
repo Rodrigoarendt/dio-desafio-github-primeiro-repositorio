@@ -12,5 +12,4 @@ for (let i = 0; i < 6; i++) {
 
 }
 
-console.log(`${quantidadePositivos} valores positivos`);    dfsafsdfsadfasdfasdfas
-vvsd\
+console.log(`${quantidadePositivos} valores positivos`);
